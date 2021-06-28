@@ -1,6 +1,6 @@
 # 情報工学科の紹介
 <!-- Markdown記法を使って学科の紹介ページを作る -->
-![Alt Text](https://www.takushoku-u.ac.jp/common/img/logo.svg)
+![logo](logo.png)
 
 # 情報工学科とは
 #### コンピュータの基礎から、高度なプログラミングまで。
