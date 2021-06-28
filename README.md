@@ -31,9 +31,9 @@
 　　　　　　　　　　　　　　　など
 # 入試情報
 ### 2021年度
-[出題方針 形式](https://www.takudai.jp/academics/engineerring/pdf/2021_policy.pdf)
-[総合型選抜試験 解答例と解説](https://www.takudai.jp/academics/engineerring/pdf/2021_general.pdf)
-[学校推薦型選抜試験 解答例と解説](https://www.takudai.jp/academics/engineerring/pdf/2021_recommendation.pdf)
+* [出題方針 形式](https://www.takudai.jp/academics/engineerring/pdf/2021_policy.pdf)
+* [総合型選抜試験 解答例と解説](https://www.takudai.jp/academics/engineerring/pdf/2021_general.pdf)
+* [学校推薦型選抜試験 解答例と解説](https://www.takudai.jp/academics/engineerring/pdf/2021_recommendation.pdf)
 # 拓殖大学の強み
 1. 歴史がある
 2. 就職率の良さ
